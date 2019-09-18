@@ -28,7 +28,7 @@ namespace MockAssesment
             for (int i = 0; i < numList.Length; i++)
             {
                 numList[i] = p;
-                p++;
+                p++; 
                 Console.WriteLine(numList[i]);
             }
 
